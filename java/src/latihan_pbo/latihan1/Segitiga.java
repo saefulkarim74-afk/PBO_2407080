@@ -1,8 +1,8 @@
-package latihan_pbo.latihan1_2407080.latihan6;
+package latihan_pbo.latihan1;
 
 public class Segitiga extends BangunDatar {
 
-    public double luasSegitiga(){
+    public double hitungLuas() {
         return 0.5 * getAlas() * getTinggi();
     }
 
